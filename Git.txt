@@ -1,0 +1,10 @@
+
+
+git config --global user.name "Q-Ghost-D"
+git config --global user.email "Q.Ghost.D@gmail.com"
+
+ssh-keygen -t ed25519 -C "Q.Ghost.D@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+
+git remote set-url STM32F1xx git@github.com:Q-Ghost-D/<repo>.git
