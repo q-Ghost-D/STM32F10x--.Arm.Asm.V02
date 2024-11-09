@@ -1,0 +1,24 @@
+[submodule "Asm/_Core_"]
+	path = Asm/_Core_
+	url = ../Asm/_Core_/
+[submodule "Asm/_Glimm_"]
+	path = Asm/_Glimm_
+	url = ../Asm/_Glimm_/
+[submodule "Asm/_Comm_"]
+	path = Asm/_Comm_
+	url = ../Asm/_Comm_/
+[submodule "Asm/_Main_"]
+	path = Asm/_Main_
+	url = ../Asm/_Main_/
+[submodule "Asm/_Perif"]
+	path = Asm/_Perif
+	url = ../Asm/_Perif/
+[submodule "Asm/_Regs_"]
+	path = Asm/_Regs_
+	url = ../Asm/_Regs_/
+[submodule "Asm/_Sets"]
+	path = Asm/_Sets
+	url = ../Asm/_Sets/
+[submodule "Sct_Ini"]
+	path = Sct_Ini
+	url = ../Sct_Ini/
